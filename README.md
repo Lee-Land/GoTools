@@ -1,4 +1,4 @@
-# GoMing
+# GoTools
 > Golang编写的工具工具库，包括Base64等使用小工具。
 ## Base64
 > 使用方法
