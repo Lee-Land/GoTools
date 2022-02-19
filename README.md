@@ -3,12 +3,12 @@
 ## Base64
 > 使用方法
 - 编码<br>
-```azure
+```go
 base64 := utils.Base64{}
 result := base64.EncodeStr("hello")
 ```
 - 解码<br>
-```azure
+```go
 base64 := utils.Base64{}
 result, err = base64.DecodeStr("aGVsbG8=")
 ```
